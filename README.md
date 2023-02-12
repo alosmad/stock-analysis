@@ -1,7 +1,8 @@
 # Green Stocks Analysis
 
 ## Overview of the Project
-The purpose of this project is to make more efficient the original script so it can be used for scalability and analyze a broader set of stocks
+The purpose of this project is to make more efficient the original script so it can be used for scalability and analyze a broader set of stocks.
+Original analysis had the purpose on helping Steve analyze the green stock for his parents but with refactoring the idea is to analyze a broader set of stocks so Steve parents can decide better on their investment.
 
 
 ## Results
@@ -21,10 +22,14 @@ Execution times for refactored script
 ## Summary
 
   1) What are the advantages or disadvantages of refactoring code?
-  In general I can conclude that refactoring has advantages, in our analysis it is great for scalability since it reduces running time meaning that with less resources we can get the same result, if we use the refactored code we can analyze more stocks in less time.
+  In general I can conclude that refactoring has advantages, in our analysis it is great for scalability since it reduces running time, meaning that with less           resources   we can get the same result.
   Another advantage is that it is easier to read for future reference.
-  The only disadvantage that I fount is only a one-timer disadvantage and it it the time spent to refactore it; anyway if we pretend to use the code with a lot of frequency it is worth to rethink about it and save time for future analysis.
+  The only disadvantage that I found is only a one-timer disadvantage and it it the time spent to refactor it; anyway if we pretend to use the code with a lot of         frequency it is worth to rethink about it and save time for future analysis.
   
   2) How do these pros and cons apply to refactoring the original VBA script?
-
-
+  The pros of refactoring is that we have a code that it is 4x faster than the original script, although in this exercise we are not using a broader set of stocks we     will make the same analysis but for more stocks and this will make Steve's parents investment less risky.
+  The cons is that the analysis is a one-timer so for now we get the same results but we spend more time on refactor for the same results.
+  
+  Alejandro Madrigal
+  
+  Data analysis
